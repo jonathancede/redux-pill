@@ -6,7 +6,7 @@ function Header() {
   return (
     <header>
       <div id="logo">
-        <img src="./icon-logo.png" alt="logo" />
+        <img src="./icons/icon-logo.png" alt="logo" />
         <div id="text-logo">
           <div>Housing</div>
           <div>Marketing</div>

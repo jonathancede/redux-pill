@@ -9,7 +9,7 @@ import "./App.css";
 
 function App() {
   return (
-    <>
+    <div className="app">
       <Router>
         <Header />
         <Switch>
@@ -18,7 +18,7 @@ function App() {
         </Switch>
         <Footer />
       </Router>
-    </>
+    </div>
   );
 }
 
