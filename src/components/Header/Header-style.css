@@ -1,0 +1,22 @@
+header {
+  display: flex;
+  height: 60px;
+  background-color: #e4f4fd;
+  border-bottom: 3px solid #409dc4;
+}
+
+header img {
+  margin: 10px;
+}
+
+#logo {
+  display: flex;
+  padding-left: 10px;
+}
+
+#text-logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 10px;
+}
